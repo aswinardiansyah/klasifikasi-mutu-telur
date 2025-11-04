@@ -1,7 +1,10 @@
-flask
-opencv-python
-scikit-image
-scikit-learn
-joblib
+scikit-learn==1.6.1
+opencv-python-headless
 numpy
+scikit-image
+joblib
+streamlit
 pandas
+numpy
+joblib
+imbalanced-learn
